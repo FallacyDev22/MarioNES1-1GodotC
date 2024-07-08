@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juane\\Documents\\GitHub\\Mario1-1C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AE1C0D-9405-4FC1-BF5E-6C3C98BFD164}|MarioC.csproj|c:\\users\\juane\\documents\\github\\mario1-1c\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AE1C0D-9405-4FC1-BF5E-6C3C98BFD164}|MarioC.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AE1C0D-9405-4FC1-BF5E-6C3C98BFD164}|MarioC.csproj|c:\\users\\juane\\documents\\github\\mario1-1c\\marioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4AE1C0D-9405-4FC1-BF5E-6C3C98BFD164}|MarioC.csproj|solutionrelative:marioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarioC.csproj",
+              "DocumentMoniker": "C:\\USERS\\JUANE\\DOCUMENTS\\GITHUB\\MARIO1-1C\\MarioC.csproj",
+              "RelativeDocumentMoniker": "MarioC.csproj",
+              "ToolTip": "C:\\USERS\\JUANE\\DOCUMENTS\\GITHUB\\MARIO1-1C\\MarioC.csproj",
+              "RelativeToolTip": "MarioC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T13:04:13.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\GitHub\\Mario1-1C\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\GitHub\\Mario1-1C\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:57:20.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
