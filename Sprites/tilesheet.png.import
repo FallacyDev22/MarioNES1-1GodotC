@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bbq7sqa1n21ra"
-path="res://.godot/imported/goomba_stomped.png-da5d74b75920c28dd38102f3caafa406.ctex"
+uid="uid://cc6ly6b7cn2r0"
+path="res://.godot/imported/tilesheet.png-f462a7d431fb8f4cfff39541f9b1d970.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://goomba_stomped.png"
-dest_files=["res://.godot/imported/goomba_stomped.png-da5d74b75920c28dd38102f3caafa406.ctex"]
+source_file="res://Sprites/tilesheet.png"
+dest_files=["res://.godot/imported/tilesheet.png-f462a7d431fb8f4cfff39541f9b1d970.ctex"]
 
 [params]
 

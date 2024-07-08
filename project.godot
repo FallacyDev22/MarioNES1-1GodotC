@@ -13,7 +13,12 @@ config_version=5
 config/name="MarioC"
 run/main_scene="res://Main.tscn"
 config/features=PackedStringArray("4.2", "C#", "Mobile")
-config/icon="res://icon.svg"
+config/icon="res://Sprites/icon.svg"
+
+[debug]
+
+settings/stdout/print_fps=true
+settings/stdout/print_gpu_profile=true
 
 [display]
 
@@ -21,7 +26,7 @@ window/size/viewport_width=256
 window/size/viewport_height=224
 window/size/window_width_override=1024
 window/size/window_height_override=896
-window/stretch/mode="canvas_items"
+window/stretch/mode="viewport"
 
 [dotnet]
 
@@ -53,3 +58,5 @@ Space={
 [rendering]
 
 renderer/rendering_method="mobile"
+2d/snap/snap_2d_transforms_to_pixel=true
+2d/snap/snap_2d_vertices_to_pixel=true

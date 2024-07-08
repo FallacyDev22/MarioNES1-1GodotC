@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cc6ly6b7cn2r0"
-path="res://.godot/imported/tilesheet.png-55e778059ad55a1a47c5237b5db55343.ctex"
+uid="uid://shmup2be57pr"
+path="res://.godot/imported/BigRun1.png-3df1c99728e8cd4eadafb3a05e514977.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tilesheet.png"
-dest_files=["res://.godot/imported/tilesheet.png-55e778059ad55a1a47c5237b5db55343.ctex"]
+source_file="res://Sprites/Player/Mushroom/BigRun1.png"
+dest_files=["res://.godot/imported/BigRun1.png-3df1c99728e8cd4eadafb3a05e514977.ctex"]
 
 [params]
 

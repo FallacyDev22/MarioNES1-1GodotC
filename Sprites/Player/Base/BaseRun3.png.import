@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://l0sapr7ttyvp"
-path="res://.godot/imported/goomba.png-984e0975dbee1415dfa6be23f977deda.ctex"
+uid="uid://domohw774pknj"
+path="res://.godot/imported/BaseRun3.png-11510a1f3bdcbc3815d19685f7f0f697.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://goomba.png"
-dest_files=["res://.godot/imported/goomba.png-984e0975dbee1415dfa6be23f977deda.ctex"]
+source_file="res://Sprites/Player/Base/BaseRun3.png"
+dest_files=["res://.godot/imported/BaseRun3.png-11510a1f3bdcbc3815d19685f7f0f697.ctex"]
 
 [params]
 
