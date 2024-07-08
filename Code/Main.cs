@@ -97,7 +97,9 @@ public partial class Player : CharacterBody2D
 	{
 		InitObjects();
 		InitPlayer();
-		AreaFoots.AreaEntered += Stomp;
+		AreaFoots.CollisionLayer = 1;
+        AreaFoots.CollisionMask = 1;
+        AreaFoots.AreaEntered += Stomp;
 	}
 
 	private void InitObjects()
@@ -521,7 +523,9 @@ public partial class Player : CharacterBody2D
 
 	public void Stomp(Area2D area)
 	{
-		if (area.GetParent() is GoombaEnemy)
+		GD.Print("Stomped!");
+		var parent = area.GetParent();
+        if (parent is GoombaEnemy)
 		{
 			GoombaEnemy goomba = area.GetParent() as GoombaEnemy;
 			stomped = true;
